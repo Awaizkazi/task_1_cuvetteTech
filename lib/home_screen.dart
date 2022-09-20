@@ -22,7 +22,7 @@ class _HomeScreenState extends State<HomeScreen> {
           body: Column(
             children: [
               Container(
-                // Container Starts here
+                // Container starts here
                 decoration: BoxDecoration(
                   color: Colors.red,
                   image: DecorationImage(
